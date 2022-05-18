@@ -1,4 +1,4 @@
-# travel_app
+# Hotel_app
 
 A new Flutter project of hotel management.
 
